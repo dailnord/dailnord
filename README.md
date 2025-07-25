@@ -32,12 +32,11 @@ Here are some ideas to get you started:
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dailnord">
-  <img src="https://github-readme-stats.vercel.app/api?username=dailnord&count_private=true&include_all_commits=true&bg_color=1c1917&title_color=0000FF&text_color=0000FF&icon_color=ffffff" alt="GitHub Stats" />
-</a>
-
 <a href="https://github.com/dailnord" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dailnord&langs_count=10&title_color=0000FF&text_color=ffffff&icon_color=0000FF&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
+<a href="http://www.github.com/dailnord">
+  <img src="https://github-readme-stats.vercel.app/api?username=dailnord&count_private=true&include_all_commits=true&bg_color=1c1917&title_color=0000FF&text_color=0000FF&icon_color=ffffff" alt="GitHub Stats" />
 </a>
+
