@@ -38,5 +38,21 @@ Here are some ideas to get you started:
 
 <a href="http://www.github.com/dailnord">
   <img src="https://github-readme-stats.vercel.app/api?username=dailnord&count_private=true&include_all_commits=true&bg_color=1c1917&title_color=0000FF&text_color=0000FF&icon_color=ffffff" alt="GitHub Stats" />
-</a>
+</a> 
+
+## 🌎 Contact me
+<p align="left">
+  <a href="dnorde540@gmail.com" title="Gmail">
+  <img
+  ![Gmail] src="https://skillicons.dev/icons?i=gmail&theme=light"
+    />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/dailis-norde-martínez-53807421a" title="LinkedIn">
+    <img 
+  ![Linkedin] src="https://skillicons.dev/icons?i=linkedin"
+      />
+  </a>
+
+</p>
 
