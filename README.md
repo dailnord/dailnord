@@ -9,6 +9,9 @@ Here are some ideas to get you started:
 
 - 🤔 Technology Explorer: Always seeking and adopting new technologies to learn and integrate into my projects with efficient and modern solutions.
 - 🎓 Learner: Constantly studying to improve my skills and be better every day.
+<br><br>
+<br><br>
+<br><br>
 
 ## 🚀 My Skills
 
