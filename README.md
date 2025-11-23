@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     />
   </a>
   
-  <a href="https://www.linkedin.com/in/dailis-norde-mart%C3%ADnez-53807421a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="[https://www.linkedin.com/in/dailis-norde-mart%C3%ADnez-53807421a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/dailis-norde-mart%C3%ADnez-53807421a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" title="Linkedin">
     <img 
    ![Linkedin] src="https://skillicons.dev/icons?i=linkedin"
       />
